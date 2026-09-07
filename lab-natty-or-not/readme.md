@@ -14,7 +14,7 @@ Este e-book é um guia prático voltado para contadores e assistentes contábeis
 
 ## 🚀 Resultados
 O resultado final é o guia de consulta rápida e segura para escritórios de contabilidade, escrito no formato Markdown:
-* [Acesse o Guia Prático em Markdown aqui] (guia-pratico)
+* [Acesse o Guia Prático em Markdown aqui](guia-pratico)
 
 ## 💭 Reflexão (Opcional)
 O maior desafio foi garantir que a IA explicasse com precisão os lançamentos contábeis (Débito e Crédito em contas de compensação) sem perder a didática simples para quem está iniciando na área.
